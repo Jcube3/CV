@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -98,7 +98,7 @@
             <tr>
               <td>Html</td>
               <td>⭐️⭐️⭐️</td>
-              </li>
+       
             </tr>
 
             <tr>
